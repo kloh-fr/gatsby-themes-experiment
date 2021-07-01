@@ -1,4 +1,4 @@
 [build]
-  base = "starters/gatsby-starter-empty/"
+  base = "starters/gatsby-starter-experiment/"
   command = "npm run build"
   publish = "public"

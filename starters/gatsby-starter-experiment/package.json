@@ -1,12 +1,12 @@
 {
-  "name": "gatsby-starter-empty",
+  "name": "gatsby-starter-experiment",
   "description": "Gatsby starter for gatsby-theme-monorepo-tutorial",
   "version": "0.0.0",
   "private": true,
-  "author": "Eric Howey <eric@erichowey.dev>",
+  "author": "Luc Poupard <contact@kloh.ch>",
   "dependencies": {
     "gatsby": "^2.27.0",
-    "gatsby-theme-empty": "^0.0.0",
+    "gatsby-theme-experiment": "^0.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
